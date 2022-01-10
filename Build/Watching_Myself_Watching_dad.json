@@ -1,0 +1,16 @@
+{
+"companyName": "horsestudio",
+"productName": "Watching Myself Watching dad",
+"productVersion": "0.1",
+"dataUrl": "Watching_Myself_Watching_dad.data.unityweb",
+"wasmCodeUrl": "Watching_Myself_Watching_dad.wasm.code.unityweb",
+"wasmFrameworkUrl": "Watching_Myself_Watching_dad.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
